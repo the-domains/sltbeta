@@ -12,19 +12,21 @@ description: >-
   Attractions such as Warner Brothers’ VIP Studio Tour, Universal Studios
   Hollywood, Disneyland & Sea World of San Diego. Visit www.starlinetours.com
   for full range of tours.
-datePublished: '2016-07-15T02:51:13.289Z'
-dateModified: '2016-07-15T02:51:02.704Z'
+datePublished: '2016-07-15T02:52:44.776Z'
+dateModified: '2016-07-15T02:52:19.995Z'
 title: ''
 author: []
+sourcePath: >-
+  _posts/2016-07-15-this-is-the-location-of-the-main-starline-tours-hollywood-te.md
 authors: []
 publisher: null
 starred: false
-sourcePath: >-
-  _posts/2016-07-15-this-is-the-location-of-the-main-starline-tours-hollywood-te.md
 url: this-is-the-location-of-the-main-starline-tours-hollywood-te/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/603c8111-07d9-49e0-b9e5-15aa4aa59ace.png)
+
 This is the location of the main **Starline Tours **Hollywood Terminal where the Starline City Sightseeing Hop-on hop-off Red Route, Purple Route & Blue Route all originate from. Other Starline Tours departing from here include the **Original Movie Stars' Homes Tour**, and tours to all major Southern California Attractions such as Warner Brothers' VIP Studio Tour, Universal Studios Hollywood, Disneyland & Sea World of San Diego. Visit [www.starlinetours.com][0] for full range of tours.
 
 The world-famous **Grauman's TCL Chinese Theatre **has hosted more movie premieres than any other movie theater in the world, and continues to host them on a regular basis to this very day. One of the main draws is the cement hand-prints and footprints of the many celebrities who have had their movies premiered here over the years. You can still go to see a movie at this theater when there isn't a premiere going on.
