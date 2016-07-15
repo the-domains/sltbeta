@@ -1,0 +1,28 @@
+name: SLTBETA
+favicon: null
+layout_spectrum: 0.4187123463489115
+typography_spectrum: 0.3410767652094364
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5072805176023394
+  lightness: 0.324147000676021
+  saturation: 0.428051559953019
+  rhythmicContrast: 0.6422881160397083
+purpose: []
